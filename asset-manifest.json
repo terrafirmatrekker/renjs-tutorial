@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/rensdk-tutorial/static/css/main.2cce8147.chunk.css",
-    "main.js": "/rensdk-tutorial/static/js/main.eab0d048.chunk.js",
-    "main.js.map": "/rensdk-tutorial/static/js/main.eab0d048.chunk.js.map",
-    "runtime-main.js": "/rensdk-tutorial/static/js/runtime-main.a97ed7ca.js",
-    "runtime-main.js.map": "/rensdk-tutorial/static/js/runtime-main.a97ed7ca.js.map",
-    "static/js/2.997ff30c.chunk.js": "/rensdk-tutorial/static/js/2.997ff30c.chunk.js",
-    "static/js/2.997ff30c.chunk.js.map": "/rensdk-tutorial/static/js/2.997ff30c.chunk.js.map",
-    "index.html": "/rensdk-tutorial/index.html",
-    "precache-manifest.a44f48e187d9173e599811d8cf4512cf.js": "/rensdk-tutorial/precache-manifest.a44f48e187d9173e599811d8cf4512cf.js",
-    "service-worker.js": "/rensdk-tutorial/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/rensdk-tutorial/static/css/main.2cce8147.chunk.css.map"
+    "main.css": "/renjs-tutorial/static/css/main.2cce8147.chunk.css",
+    "main.js": "/renjs-tutorial/static/js/main.26fd7c2e.chunk.js",
+    "main.js.map": "/renjs-tutorial/static/js/main.26fd7c2e.chunk.js.map",
+    "runtime-main.js": "/renjs-tutorial/static/js/runtime-main.3e4cce5e.js",
+    "runtime-main.js.map": "/renjs-tutorial/static/js/runtime-main.3e4cce5e.js.map",
+    "static/js/2.f5a42059.chunk.js": "/renjs-tutorial/static/js/2.f5a42059.chunk.js",
+    "static/js/2.f5a42059.chunk.js.map": "/renjs-tutorial/static/js/2.f5a42059.chunk.js.map",
+    "index.html": "/renjs-tutorial/index.html",
+    "precache-manifest.6b18015986266d485be0057088f24185.js": "/renjs-tutorial/precache-manifest.6b18015986266d485be0057088f24185.js",
+    "service-worker.js": "/renjs-tutorial/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/renjs-tutorial/static/css/main.2cce8147.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.a97ed7ca.js",
-    "static/js/2.997ff30c.chunk.js",
+    "static/js/runtime-main.3e4cce5e.js",
+    "static/js/2.f5a42059.chunk.js",
     "static/css/main.2cce8147.chunk.css",
-    "static/js/main.eab0d048.chunk.js"
+    "static/js/main.26fd7c2e.chunk.js"
   ]
 }
