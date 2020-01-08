@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/renjs-tutorial/static/css/main.2cce8147.chunk.css",
-    "main.js": "/renjs-tutorial/static/js/main.061ac059.chunk.js",
-    "main.js.map": "/renjs-tutorial/static/js/main.061ac059.chunk.js.map",
-    "runtime-main.js": "/renjs-tutorial/static/js/runtime-main.3e4cce5e.js",
-    "runtime-main.js.map": "/renjs-tutorial/static/js/runtime-main.3e4cce5e.js.map",
-    "static/js/2.b5e06ef7.chunk.js": "/renjs-tutorial/static/js/2.b5e06ef7.chunk.js",
-    "static/js/2.b5e06ef7.chunk.js.map": "/renjs-tutorial/static/js/2.b5e06ef7.chunk.js.map",
+    "main.js": "/renjs-tutorial/static/js/main.24ecbec7.chunk.js",
+    "main.js.map": "/renjs-tutorial/static/js/main.24ecbec7.chunk.js.map",
+    "runtime-main.js": "/renjs-tutorial/static/js/runtime-main.c01f4187.js",
+    "runtime-main.js.map": "/renjs-tutorial/static/js/runtime-main.c01f4187.js.map",
+    "static/js/2.ff4ffca9.chunk.js": "/renjs-tutorial/static/js/2.ff4ffca9.chunk.js",
+    "static/js/2.ff4ffca9.chunk.js.map": "/renjs-tutorial/static/js/2.ff4ffca9.chunk.js.map",
     "index.html": "/renjs-tutorial/index.html",
-    "precache-manifest.18326483b7679182abb483d4e10e0189.js": "/renjs-tutorial/precache-manifest.18326483b7679182abb483d4e10e0189.js",
+    "precache-manifest.12b2e44a710d2a383ed244da2d9ee38f.js": "/renjs-tutorial/precache-manifest.12b2e44a710d2a383ed244da2d9ee38f.js",
     "service-worker.js": "/renjs-tutorial/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/renjs-tutorial/static/css/main.2cce8147.chunk.css.map"
+    "static/css/main.2cce8147.chunk.css.map": "/renjs-tutorial/static/css/main.2cce8147.chunk.css.map",
+    "static/js/2.ff4ffca9.chunk.js.LICENSE": "/renjs-tutorial/static/js/2.ff4ffca9.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e4cce5e.js",
-    "static/js/2.b5e06ef7.chunk.js",
+    "static/js/runtime-main.c01f4187.js",
+    "static/js/2.ff4ffca9.chunk.js",
     "static/css/main.2cce8147.chunk.css",
-    "static/js/main.061ac059.chunk.js"
+    "static/js/main.24ecbec7.chunk.js"
   ]
 }
