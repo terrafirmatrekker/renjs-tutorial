@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/renjs-tutorial/static/css/main.2cce8147.chunk.css",
-    "main.js": "/renjs-tutorial/static/js/main.61007588.chunk.js",
-    "main.js.map": "/renjs-tutorial/static/js/main.61007588.chunk.js.map",
+    "main.js": "/renjs-tutorial/static/js/main.c3b9728e.chunk.js",
+    "main.js.map": "/renjs-tutorial/static/js/main.c3b9728e.chunk.js.map",
     "runtime-main.js": "/renjs-tutorial/static/js/runtime-main.989844f2.js",
     "runtime-main.js.map": "/renjs-tutorial/static/js/runtime-main.989844f2.js.map",
-    "static/js/2.56fabd70.chunk.js": "/renjs-tutorial/static/js/2.56fabd70.chunk.js",
-    "static/js/2.56fabd70.chunk.js.map": "/renjs-tutorial/static/js/2.56fabd70.chunk.js.map",
+    "static/js/2.5514134e.chunk.js": "/renjs-tutorial/static/js/2.5514134e.chunk.js",
+    "static/js/2.5514134e.chunk.js.map": "/renjs-tutorial/static/js/2.5514134e.chunk.js.map",
     "index.html": "/renjs-tutorial/index.html",
-    "precache-manifest.626a3abdea8ba452b8efe0ebfb71022e.js": "/renjs-tutorial/precache-manifest.626a3abdea8ba452b8efe0ebfb71022e.js",
+    "precache-manifest.194731a8a779cecee27bef792009bae2.js": "/renjs-tutorial/precache-manifest.194731a8a779cecee27bef792009bae2.js",
     "service-worker.js": "/renjs-tutorial/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/renjs-tutorial/static/css/main.2cce8147.chunk.css.map",
-    "static/js/2.56fabd70.chunk.js.LICENSE.txt": "/renjs-tutorial/static/js/2.56fabd70.chunk.js.LICENSE.txt"
+    "static/js/2.5514134e.chunk.js.LICENSE.txt": "/renjs-tutorial/static/js/2.5514134e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.989844f2.js",
-    "static/js/2.56fabd70.chunk.js",
+    "static/js/2.5514134e.chunk.js",
     "static/css/main.2cce8147.chunk.css",
-    "static/js/main.61007588.chunk.js"
+    "static/js/main.c3b9728e.chunk.js"
   ]
 }
